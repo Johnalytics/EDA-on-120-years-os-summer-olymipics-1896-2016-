@@ -1,1 +1,4 @@
-# EDA-on-120-years-os-summer-olymipics-1896-2016-
+# EDA-on-120-years-of-summer-olymipics-1896-2016
+'The Summer Olympic Games, also known as the Games of the Olympiad, are a major international multi-sport event normally held once every four years. The inaugural Games took place in 1896 in Athens...'  [Wikipedia on summer olympics](https://en.wikipedia.org/wiki/Summer_Olympic_Games)
+
+An attempt on the Exploratory Data Analysis of the 120 years of the summer olympics would aid in the critical process of performing initial investigations on the olympics data. So  as to discover patterns,to spot anomalies or outliers,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. Therefore, giving us a proper insight into the history and events of the summer olympic games within the this period. Our dataset for this project was gotten from [kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
